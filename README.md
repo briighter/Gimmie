@@ -1,4 +1,6 @@
 # Gimmie
+Gimmie is a loyalty card information system built to help small businesses manage their loyalty card customer rewards system.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
 
